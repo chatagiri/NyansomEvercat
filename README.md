@@ -12,9 +12,9 @@ NyansomEvercat.jarはそんな悩みを解消し，快適な作業停止環境�
   
 # How to use
 ## 動作環境  
-(確認済み)1.8.0_121 以上のJRE　　
+1.8.0_121 以上のJava　
 
 ## 使い方
 ①cloneしてコマンドラインからjavacして起動する．url書き換えて他のサイトとか飛んでも良いかもしれません．  
-②ダウンロードしてartifactsフォルダ内のNyansomware.jarを起動する．  
+②ダウンロードしてartifactsフォルダ内のNyansomEvercat.jarを起動する．  
 画面左上をドラッグすると移動，画面右下をドラッグするとリサイズができるはずです．(gif参照)  
