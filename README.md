@@ -2,7 +2,7 @@
 A cat movie player implements frameless, overlay, using a web service "Evercat" 
 JavaFXでオーバレイ+フレームレスなEvercatビューワ  
   
-![demo](https://github.com/chatagiri/Nyansomware/blob/master/NyansomDemo.gif)  
+![demo](https://github.com/chatagiri/NyansomEvercat/blob/master/NyansomEvercat_demo.gif)  
   
 # What is this?
 仕事しながら，課題しながら，グダグダしながら．作業中に猫動画を垂れ流すのは誰しも1度は経験があるはずです．  
