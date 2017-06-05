@@ -40,7 +40,6 @@ public class NyansomEvercat extends Application {
                 // Sceneのx,y座標を取得する
                 xSize = webView.getWidth();
                 ySize = webView.getHeight();
-
             }
         });
 
@@ -56,9 +55,6 @@ public class NyansomEvercat extends Application {
                     webView.setPrefHeight(event.getScreenX() - xOffset);
                     webView.setPrefWidth(event.getScreenY() - yOffset);
 
-
-
-
                 } else if (xOffset < xSize * 0.1 && yOffset < ySize * 0.1) {
                     // マウス降下座標が左上ならウィンドウを移動
 
@@ -70,7 +66,6 @@ public class NyansomEvercat extends Application {
 
         // 初期ページのURLを指定
         webView.getEngine().load(initUrl());
-
         // 常に前面に表示と表示処理
         stage.initStyle(StageStyle.UNDECORATED);
         stage.setAlwaysOnTop(true);
