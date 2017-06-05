@@ -1,5 +1,5 @@
 # NyansomEvercat
-A cat movie player implements frameless, overlay, using a web service "Evercat" 
+A cat movie player implements frameless, overlay, using a web service "Evercat"  
 JavaFXでオーバレイ+フレームレスなEvercatビューワ  
   
 ![demo](https://github.com/chatagiri/NyansomEvercat/blob/master/NyansomEvercat_demo.gif)  
